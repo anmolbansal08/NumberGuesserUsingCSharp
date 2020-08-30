@@ -1,0 +1,13 @@
+C:\Users\mailm\source\repos\NumberGuesserusingCsharp\NumberGuesserusingCsharp\bin\Debug\netcoreapp3.1\NumberGuesserusingCsharp.exe
+C:\Users\mailm\source\repos\NumberGuesserusingCsharp\NumberGuesserusingCsharp\bin\Debug\netcoreapp3.1\NumberGuesserusingCsharp.deps.json
+C:\Users\mailm\source\repos\NumberGuesserusingCsharp\NumberGuesserusingCsharp\bin\Debug\netcoreapp3.1\NumberGuesserusingCsharp.runtimeconfig.json
+C:\Users\mailm\source\repos\NumberGuesserusingCsharp\NumberGuesserusingCsharp\bin\Debug\netcoreapp3.1\NumberGuesserusingCsharp.runtimeconfig.dev.json
+C:\Users\mailm\source\repos\NumberGuesserusingCsharp\NumberGuesserusingCsharp\bin\Debug\netcoreapp3.1\NumberGuesserusingCsharp.dll
+C:\Users\mailm\source\repos\NumberGuesserusingCsharp\NumberGuesserusingCsharp\bin\Debug\netcoreapp3.1\NumberGuesserusingCsharp.pdb
+C:\Users\mailm\source\repos\NumberGuesserusingCsharp\NumberGuesserusingCsharp\obj\Debug\netcoreapp3.1\NumberGuesserusingCsharp.csprojAssemblyReference.cache
+C:\Users\mailm\source\repos\NumberGuesserusingCsharp\NumberGuesserusingCsharp\obj\Debug\netcoreapp3.1\NumberGuesserusingCsharp.AssemblyInfoInputs.cache
+C:\Users\mailm\source\repos\NumberGuesserusingCsharp\NumberGuesserusingCsharp\obj\Debug\netcoreapp3.1\NumberGuesserusingCsharp.AssemblyInfo.cs
+C:\Users\mailm\source\repos\NumberGuesserusingCsharp\NumberGuesserusingCsharp\obj\Debug\netcoreapp3.1\NumberGuesserusingCsharp.csproj.CoreCompileInputs.cache
+C:\Users\mailm\source\repos\NumberGuesserusingCsharp\NumberGuesserusingCsharp\obj\Debug\netcoreapp3.1\NumberGuesserusingCsharp.dll
+C:\Users\mailm\source\repos\NumberGuesserusingCsharp\NumberGuesserusingCsharp\obj\Debug\netcoreapp3.1\NumberGuesserusingCsharp.pdb
+C:\Users\mailm\source\repos\NumberGuesserusingCsharp\NumberGuesserusingCsharp\obj\Debug\netcoreapp3.1\NumberGuesserusingCsharp.genruntimeconfig.cache
